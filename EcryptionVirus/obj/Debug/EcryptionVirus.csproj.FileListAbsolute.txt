@@ -1,0 +1,10 @@
+C:\Users\Mohamed Beshri Amer\source\repos\EcryptionVirus\EcryptionVirus\bin\Debug\EcryptionVirus.exe.config
+C:\Users\Mohamed Beshri Amer\source\repos\EcryptionVirus\EcryptionVirus\bin\Debug\EcryptionVirus.exe
+C:\Users\Mohamed Beshri Amer\source\repos\EcryptionVirus\EcryptionVirus\bin\Debug\EcryptionVirus.pdb
+C:\Users\Mohamed Beshri Amer\source\repos\EcryptionVirus\EcryptionVirus\obj\Debug\EcryptionVirus.csprojAssemblyReference.cache
+C:\Users\Mohamed Beshri Amer\source\repos\EcryptionVirus\EcryptionVirus\obj\Debug\EcryptionVirus.Form1.resources
+C:\Users\Mohamed Beshri Amer\source\repos\EcryptionVirus\EcryptionVirus\obj\Debug\EcryptionVirus.Properties.Resources.resources
+C:\Users\Mohamed Beshri Amer\source\repos\EcryptionVirus\EcryptionVirus\obj\Debug\EcryptionVirus.csproj.GenerateResource.cache
+C:\Users\Mohamed Beshri Amer\source\repos\EcryptionVirus\EcryptionVirus\obj\Debug\EcryptionVirus.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed Beshri Amer\source\repos\EcryptionVirus\EcryptionVirus\obj\Debug\EcryptionVirus.exe
+C:\Users\Mohamed Beshri Amer\source\repos\EcryptionVirus\EcryptionVirus\obj\Debug\EcryptionVirus.pdb
